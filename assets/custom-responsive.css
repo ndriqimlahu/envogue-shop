@@ -1,0 +1,2786 @@
+/* ================================================================================= */
+/* MEDIA QUERIES FOR DESKTOP SCREEN SIZE */
+@media only screen and (min-width: 1441px) {
+  /* HEADER SECTION */
+  .header__inline-menu .list-menu li {
+    font: normal normal 600 16px/20px Lato;
+  }
+  .break-wrapper {
+    font-size: 26px;
+  }
+  .header__icon--search .icon,
+  .header__icon--account .icon,
+  .header__icon--heart .icon,
+  .header__icon--cart .icon {
+    width: 28px;
+    height: 28px;
+  }
+  /* FOOTER SECTION */
+  .footer-block__image-wrapper {
+    width: 100%;
+    height: 36px;
+  }
+  .footer .rte strong {
+    margin-right: 25px;
+    font: normal normal 600 18px/26px Lato;
+  }
+  .footer .rte p {
+    font: normal normal normal 18px/26px Lato;
+  }
+  .footer-block,
+  .footer-block--menu,
+  .footer-block__brand-info {
+    margin: 0 40px 0 -25px;
+  }
+  .footer-block__newsletter {
+    margin-left: -12px;
+  }
+  .footer-block__heading {
+    font: normal normal 600 16px/20px Lato;
+  }
+  .footer-block__description {
+    font: normal normal normal 16px/22px Lato;
+  }
+  .footer-block--menu h2,
+  .footer-block__newsletter h2 {
+    width: max-content;
+    font: normal normal 600 16px/20px Lato;
+  }
+  .footer-block--menu ul li a,
+  .footer-block__newsletter p {
+    font: normal normal normal 16px/22px Lato;
+  }
+  .footer-block__newsletter button {
+    margin: 4px 4px 4px;
+  }
+  .footer .footer__content-top .footer__list-social {
+    left: 49.8em;
+  }
+  .footer__content-top {
+    padding-bottom: 3rem !important;
+  }
+  .footer__content-bottom-wrapper {
+    bottom: -50%;
+    left: 15%;
+    right: 20%;
+    padding: 0 0 0 45px;
+  }
+  .copyright__content {
+    margin: auto !important;
+    font: normal normal normal 16px/22px Lato;
+    font-size-adjust: 0.65;
+  }
+  .footer__payment ul {
+    margin: auto !important;
+    font: normal normal normal 16px/22px Lato;
+    font-size-adjust: 0.55;
+  }
+  /* BANNER WITH SLIDESHOW SECTION */
+  #shopify-section-template--23397234082080__slideshow_VizJ6y .banner {
+    width: 100%;
+    height: 82rem;
+  }
+  #shopify-section-template--23397234082080__slideshow_VizJ6y .banner__media {
+    height: 125%;
+  }
+  #shopify-section-template--23397234082080__slideshow_VizJ6y
+    .banner__box
+    > *:nth-child(1) {
+    font-size-adjust: 0.48;
+  }
+  #shopify-section-template--23397234082080__slideshow_VizJ6y
+    .banner__box
+    > *:nth-child(2) {
+    font-size-adjust: 0.48;
+  }
+  #shopify-section-template--23397234082080__slideshow_VizJ6y
+    .banner__box
+    .banner__buttons
+    a {
+    font-size-adjust: 0.48;
+  }
+  /* FEATURED COLLECTION WITH WHAT'S NEW TITLE SECTION */
+  #shopify-section-template--23397234082080__featured_collection
+    .collection__title {
+    font: normal normal 600 38px/40px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .product-card-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .favorite__image {
+    right: 12px;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .favorite__image
+    .svg-wrapper {
+    width: 22px;
+    height: 22px;
+    margin: 5px 5px;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .card__heading {
+    font: normal normal medium 18px/24px Lato;
+    font-size-adjust: 0.75;
+  }
+  #shopify-section-template--23397234082080__featured_collection .price {
+    font: normal normal medium 18px/24px Lato;
+    font-size-adjust: 0.55;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .price--on-sale
+    .price-item--regular {
+    font: normal normal normal 16px/22px Lato;
+    font-size-adjust: 0.45;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .price-item--limit {
+    font: normal normal medium 16px/20px Lato;
+    margin-left: 5px;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .filter-section {
+    width: 500px;
+    height: 46px;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .filter-section
+    ul
+    li {
+    font: normal normal 600 16px/22px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .filter-section
+    ul
+    li
+    a {
+    font: normal normal 600 16px/22px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .filter-section
+    ul
+    li
+    a.active {
+    font: normal normal 600 16px/22px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection .badge,
+  .badge--new {
+    margin-left: 5px;
+  }
+  /* FEATURED COLLECTION WITH EXPLORE COLLECTION TITLE SECTION */
+  #shopify-section-template--23397234082080__featured_collection_6363QC
+    .collection__title {
+    font: normal normal 600 38px/40px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_6363QC
+    .product-grid {
+    margin: auto;
+    /* margin: 50px -310px 0; */
+  }
+  #shopify-section-template--23397234082080__featured_collection_6363QC
+    .product-card-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  /* FEATURED COLLECTION WITHOUT HEADING TITLE SECTION */
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .product-card-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .favorite__image {
+    right: 12px;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .favorite__image
+    .svg-wrapper {
+    width: 22px;
+    height: 22px;
+    margin: 5px 5px;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .card__heading {
+    font: normal normal medium 18px/24px Lato;
+    font-size-adjust: 0.75;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX .price {
+    font: normal normal medium 18px/24px Lato;
+    font-size-adjust: 0.55;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .price--on-sale
+    .price-item--regular {
+    font: normal normal normal 16px/22px Lato;
+    font-size-adjust: 0.45;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .price-item--limit {
+    font: normal normal medium 16px/20px Lato;
+    margin-left: 5px;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .filter-section {
+    width: 575px;
+    height: 54px;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .filter-section
+    ul
+    li {
+    font: normal normal 600 26px/30px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .filter-section
+    ul
+    li
+    a {
+    font: normal normal 600 26px/30px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .filter-section
+    ul
+    li
+    a.active {
+    font: normal normal 600 26px/30px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX .badge,
+  .badge--new {
+    margin-left: 5px;
+  }
+  /* CATEGORIES WITH TEXT AND IMAGE SECTION */
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__first
+    .categories-container__title {
+    width: 100%;
+    height: 52px;
+    top: 50%;
+    left: 20%;
+    font: normal normal 600 46px/50px Lato;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__first
+    .categories-container__button {
+    top: 45%;
+    left: 65%;
+    font: normal normal 600 18px/26px Lato;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__first
+    .img-wrapper {
+    width: 100%;
+    height: 620px;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__second
+    .categories-container__title {
+    width: 100%;
+    height: 52px;
+    top: 50%;
+    right: 20%;
+    font: normal normal 600 46px/50px Lato;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__second
+    .categories-container__button {
+    top: 45%;
+    left: 25%;
+    font: normal normal 600 18px/26px Lato;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__second
+    .img-wrapper {
+    width: 100%;
+    height: 620px;
+  }
+  /* MULTICOLUMN ABOUT SERVICE SECTION */
+  #shopify-section-template--23397234082080__multicolumn_tfecHK
+    .multicolumn-list {
+    margin: 0 -230px 0 -230px;
+  }
+  #shopify-section-template--23397234082080__multicolumn_tfecHK
+    .multicolumn-card__info
+    h3 {
+    font: normal normal 600 22px/28px Lato;
+  }
+  #shopify-section-template--23397234082080__multicolumn_tfecHK
+    .multicolumn-card__info {
+    font: normal normal normal 16px/22px Lato;
+  }
+  /* MULTICOLUMN WITH FEEDBACKS SECTION */
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .multicolumn__title {
+    font: normal normal 600 38px/40px Lato;
+  }
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .multicolumn-list {
+    margin: 0 -230px 0 -230px;
+  }
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .multicolumn-card {
+    width: 410px;
+    height: 296px;
+  }
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .multicolumn-card__info
+    h3 {
+    font: normal normal 600 22px/28px Lato;
+  }
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .multicolumn-card__info {
+    font: normal normal normal 18px/26px Lato;
+  }
+  /* FEATURED COLLECTION WITH ANVOGUE ON SOCIAL MEDIA TITLE SECTION */
+  #shopify-section-template--23397234082080__featured_collection_kqLVqF
+    .collection__title {
+    font: normal normal 600 38px/40px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_kqLVqF
+    .collection__description {
+    font: normal normal normal 18px/26px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_kqLVqF
+    .product-card-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  /* MULTICOLUMN WITH BRANDS SECTION */
+  #shopify-section-template--23397234082080__multicolumn_jbgkDy
+    .multicolumn-list {
+    width: auto;
+    height: auto;
+    margin: 0 -175px 0 -175px;
+  }
+  /* BREADCRUMBS SECTION */
+  #shopify-section-template--23397234180384__custom_liquid_rB769h .breadcrumb {
+    padding: 15px 390px 15px 390px;
+  }
+  #shopify-section-template--23397234180384__custom_liquid_rB769h
+    .breadcrumb__home,
+  .breadcrumb__collection {
+    font: normal normal normal 16px/22px Lato;
+  }
+  #shopify-section-template--23397234180384__custom_liquid_rB769h
+    .breadcrumb__product {
+    font: normal normal normal 16px/22px Lato;
+  }
+  /* FEATURED PRODUCT SECTION */
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .heart-image__image {
+    right: -100px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .heart-image__image
+    .svg-wrapper {
+    width: 22px;
+    height: 22px;
+    margin: 12px 12px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .caption-with-letter-spacing {
+    font: normal normal 600 14px/20px Poppins !important;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product__title {
+    font: normal normal 600 38px/40px Lato;
+    font-size-adjust: 0.4;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy .rating {
+    width: 55%;
+    height: 17px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .total-reviews {
+    font: normal normal normal 16px/22px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product__text {
+    font: normal normal normal 18px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy .price {
+    font: normal normal 600 26px/30px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .form__label {
+    font: normal normal medium 18px/24px Lato;
+    font-size-adjust: 0.65;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .form__label
+    u {
+    font: normal normal normal 16px/22px Lato;
+    font-size-adjust: 0.5;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy .swatch {
+    width: 50px;
+    height: 50px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label {
+    width: 50px;
+    height: 50px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(3) {
+    font: normal normal 600 18px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(5) {
+    font: normal normal 600 18px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(7) {
+    font: normal normal 600 18px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(9) {
+    font: normal normal 600 18px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(11) {
+    font: normal normal 600 16px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .quantity__label {
+    font: normal normal medium 18px/24px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__submit {
+    width: 540px;
+    height: 50px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__submit
+    span {
+    width: 100%;
+    height: 22px;
+    font: normal normal 16px/20px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .share-button {
+    width: 120%;
+    height: 50px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .compare-button__button,
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .share-button__button {
+    font: normal normal normal 18px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .compare-button__button
+    .svg-wrapper,
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .share-button__button
+    .svg-wrapper {
+    width: 50px;
+    height: 50px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-compare,
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-share {
+    width: 22px;
+    height: 22px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-with-text__heading {
+    font: normal normal 600 26px/30px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-with-text__item
+    img {
+    width: 34px;
+    height: 34px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-with-text__item
+    .h4 {
+    font: normal normal medium 18px/24px Lato;
+    font-size-adjust: 0.6;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-with-text__item
+    .h5 {
+    font: normal normal normal 16px/22px Lato;
+    padding-left: 45px;
+  }
+  /* MULTICOLUMN WITH DESCRIPTION AND ABOUT PRODUCT SECTION */
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .multicolumn-list {
+    margin: 0 -230px 0 -230px;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .filter-section {
+    width: 566px;
+    height: 54px;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .filter-section
+    ul
+    li {
+    font: normal normal 600 26px/30px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .filter-section
+    ul
+    li
+    a {
+    font: normal normal 600 26px/30px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .filter-section
+    ul
+    li
+    a.active {
+    font: normal normal 600 26px/30px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .multicolumn-card__info
+    h3 {
+    font: normal normal 600 22px/28px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .multicolumn-card__info {
+    font: normal normal normal 18px/26px Lato;
+  }
+  /* MULTICOLUMN ABOUT SHIPPING SECTION */
+  #shopify-section-template--23397234180384__multicolumn_FRpQtA
+    .multicolumn-list {
+    margin: 0 -230px 0 -230px;
+  }
+  #shopify-section-template--23397234180384__multicolumn_FRpQtA
+    .multicolumn-card__image-wrapper {
+    width: 42px;
+    height: 42px;
+  }
+  #shopify-section-template--23397234180384__multicolumn_FRpQtA
+    .multicolumn-card__info
+    h3 {
+    font: normal normal 600 22px/28px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_FRpQtA
+    .multicolumn-card__info {
+    font: normal normal normal 18px/26px Lato;
+  }
+  /* FEATURED COLLECTION WITH RELATED PRODUCTS TITLE SECTION */
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .collection__title {
+    font: normal normal 600 38px/40px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .product-card-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .favorite__image {
+    right: 12px;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .favorite__image
+    .svg-wrapper {
+    width: 22px;
+    height: 22px;
+    margin: 5px 5px;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .card__heading {
+    font: normal normal medium 18px/24px Lato;
+    font-size-adjust: 0.75;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt .price {
+    font: normal normal medium 18px/24px Lato;
+    font-size-adjust: 0.55;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .price--on-sale
+    .price-item--regular {
+    font: normal normal normal 16px/22px Lato;
+    font-size-adjust: 0.45;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .price-item--limit {
+    font: normal normal medium 16px/20px Lato;
+    margin-left: 5px;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt .badge,
+  .badge--new {
+    margin-left: 5px;
+  }
+}
+/* ================================================================================= */
+/* MEDIA QUERIES FOR LAPTOP SCREEN SIZES */
+@media only screen and (min-width: 1025px) and (max-width: 1440px) {
+  /* HEADER SECTION */
+  .header__inline-menu .list-menu li {
+    font: normal normal 600 14px/20px Lato;
+  }
+  .break-wrapper {
+    font-size: 24px;
+  }
+  .header__icon--search .icon,
+  .header__icon--account .icon,
+  .header__icon--heart .icon,
+  .header__icon--cart .icon {
+    width: 26px;
+    height: 26px;
+  }
+  /* FOOTER SECTION */
+  .footer-block__image-wrapper {
+    width: 118px;
+    height: 36px;
+  }
+  .footer .rte strong {
+    margin-right: 20px;
+    font: normal normal 600 16px/26px Lato;
+  }
+  .footer .rte p {
+    font: normal normal normal 16px/26px Lato;
+  }
+  .footer-block,
+  .footer-block--menu,
+  .footer-block__brand-info,
+  .footer-block__newsletter {
+    margin: 0 20px 0 -10px;
+  }
+  .footer-block__heading {
+    font: normal normal 600 14px/20px Lato;
+  }
+  .footer-block__description {
+    font: normal normal normal 14px/22px Lato;
+  }
+  .footer-block--menu h2,
+  .footer-block__newsletter h2 {
+    font: normal normal 600 14px/20px Lato;
+  }
+  .footer-block--menu ul li a,
+  .footer-block__newsletter p {
+    font: normal normal normal 14px/22px Lato;
+  }
+  .footer-block__newsletter button {
+    margin: 5px 3px 4px 3px;
+  }
+  .footer .footer__content-top .footer__list-social {
+    left: 48.8em;
+    bottom: 1.8em;
+  }
+  .footer__content-top {
+    padding-bottom: 3rem !important;
+  }
+  .footer__content-bottom-wrapper {
+    bottom: -20%;
+  }
+  @media only screen and (width: 1440px) {
+    .footer__content-bottom-wrapper {
+      bottom: -40%;
+      left: 6.5%;
+    }
+  }
+  .copyright__content {
+    margin: auto !important;
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.6;
+  }
+  .footer__payment ul {
+    margin: auto !important;
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.5;
+  }
+  /* BANNER WITH SLIDESHOW SECTION */
+  #shopify-section-template--23397234082080__slideshow_VizJ6y .banner {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__slideshow_VizJ6y .banner__media {
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__slideshow_VizJ6y
+    .banner__box
+    > *:nth-child(1) {
+    font-size-adjust: 0.38;
+  }
+  #shopify-section-template--23397234082080__slideshow_VizJ6y
+    .banner__box
+    > *:nth-child(2) {
+    font-size-adjust: 0.38;
+  }
+  #shopify-section-template--23397234082080__slideshow_VizJ6y
+    .banner__box
+    .banner__buttons
+    a {
+    font-size-adjust: 0.38;
+  }
+  /* FEATURED COLLECTION WITH WHAT'S NEW TITLE SECTION */
+  #shopify-section-template--23397234082080__featured_collection
+    .collection__title {
+    font: normal normal 600 36px/40px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .product-card-wrapper {
+    width: 300px;
+    height: 400px;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .favorite__image {
+    right: 10px;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .favorite__image
+    .svg-wrapper {
+    width: 20px;
+    height: 20px;
+    margin: 6px 6px;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .card__heading {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.55;
+  }
+  #shopify-section-template--23397234082080__featured_collection .price {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.45;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .price--on-sale
+    .price-item--regular {
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.45;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .price-item--limit {
+    font: normal normal medium 14px/20px Lato;
+    margin-left: 2px;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .filter-section
+    ul
+    li {
+    font: normal normal 600 14px/22px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .filter-section
+    ul
+    li
+    a {
+    font: normal normal 600 14px/22px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .filter-section
+    ul
+    li
+    a.active {
+    font: normal normal 600 14px/22px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection .badge,
+  .badge--new {
+    margin-left: 2px;
+  }
+  /* FEATURED COLLECTION WITH EXPLORE COLLECTION TITLE SECTION */
+  #shopify-section-template--23397234082080__featured_collection_6363QC
+    .collection__title {
+    font: normal normal 600 36px/40px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_6363QC
+    .product-grid {
+    margin: auto;
+    /* margin: 50px -205px 0; */
+  }
+  #shopify-section-template--23397234082080__featured_collection_6363QC
+    .product-card-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  /* FEATURED COLLECTION WITHOUT HEADING TITLE SECTION */
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .product-card-wrapper {
+    width: 300px;
+    height: 400px;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .favorite__image {
+    right: 10px;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .favorite__image
+    .svg-wrapper {
+    width: 20px;
+    height: 20px;
+    margin: 6px 6px;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .card__heading {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.55;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX .price {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.45;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .price--on-sale
+    .price-item--regular {
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.45;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .price-item--limit {
+    font: normal normal medium 14px/20px Lato;
+    margin-left: 2px;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .filter-section {
+    width: 526px;
+    height: 54px;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .filter-section
+    ul
+    li {
+    font: normal normal 600 24px/30px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .filter-section
+    ul
+    li
+    a {
+    font: normal normal 600 24px/30px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .filter-section
+    ul
+    li
+    a.active {
+    font: normal normal 600 24px/30px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX .badge,
+  .badge--new {
+    margin-left: 2px;
+  }
+  /* CATEGORIES WITH TEXT AND IMAGE SECTION */
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__first
+    .categories-container__title {
+    width: 100%;
+    height: 52px;
+    top: 50%;
+    left: 15%;
+    font: normal normal 600 44px/50px Lato;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__first
+    .categories-container__button {
+    top: 45%;
+    left: 58%;
+    padding: 5px 0 5px 0;
+    font: normal normal 600 16px/26px Lato;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__first
+    .img-wrapper {
+    width: 100%;
+    height: 540px;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__second
+    .categories-container__title {
+    width: 100%;
+    height: 52px;
+    top: 50%;
+    right: 15%;
+    font: normal normal 600 44px/50px Lato;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__second
+    .categories-container__button {
+    top: 45%;
+    left: 28%;
+    padding: 5px 0 5px 0;
+    font: normal normal 600 16px/26px Lato;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__second
+    .img-wrapper {
+    width: 100%;
+    height: 540px;
+  }
+  /* MULTICOLUMN ABOUT SERVICE SECTION */
+  #shopify-section-template--23397234082080__multicolumn_tfecHK
+    .multicolumn-card__info
+    h3 {
+    font: normal normal 600 20px/28px Lato;
+  }
+  #shopify-section-template--23397234082080__multicolumn_tfecHK
+    .multicolumn-card__info {
+    font: normal normal normal 14px/22px Lato;
+  }
+  /* MULTICOLUMN WITH FEEDBACKS SECTION */
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .multicolumn__title {
+    font: normal normal 600 36px/40px Lato;
+  }
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .multicolumn-card {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .multicolumn-card__info
+    h3 {
+    font: normal normal 600 20px/28px Lato;
+  }
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .multicolumn-card__info {
+    font: normal normal normal 16px/26px Lato;
+  }
+  /* FEATURED COLLECTION WITH ANVOGUE ON SOCIAL MEDIA TITLE SECTION */
+  #shopify-section-template--23397234082080__featured_collection_kqLVqF
+    .collection__title {
+    font: normal normal 600 36px/40px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_kqLVqF
+    .collection__description {
+    font: normal normal normal 16px/26px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_kqLVqF
+    .product-card-wrapper {
+    width: 245px;
+    height: 245px;
+  }
+  /* MULTICOLUMN WITH BRANDS SECTION */
+  #shopify-section-template--23397234082080__multicolumn_jbgkDy
+    .multicolumn-list {
+    width: auto;
+    height: auto;
+  }
+  /* BREADCRUMBS SECTION */
+  #shopify-section-template--23397234180384__custom_liquid_rB769h .breadcrumb {
+    padding: 15px 65px 15px 65px;
+  }
+  #shopify-section-template--23397234180384__custom_liquid_rB769h
+    .breadcrumb__home,
+  .breadcrumb__collection {
+    font: normal normal normal 14px/22px Lato;
+  }
+  #shopify-section-template--23397234180384__custom_liquid_rB769h
+    .breadcrumb__product {
+    font: normal normal normal 14px/22px Lato;
+  }
+  /* FEATURED PRODUCT SECTION */
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .heart-image__image {
+    right: -45px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .heart-image__image
+    .svg-wrapper {
+    width: 20px;
+    height: 20px;
+    margin: 13px 13px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .caption-with-letter-spacing {
+    font: normal normal 600 12px/20px Poppins !important;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product__title {
+    font: normal normal 600 36px/40px Lato;
+    font-size-adjust: 0.4;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy .rating {
+    width: 164px;
+    height: 17px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .total-reviews {
+    font: normal normal normal 14px/22px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product__text {
+    font: normal normal normal 16px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy .price {
+    font: normal normal 600 24px/30px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .form__label {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.6;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .form__label
+    u {
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.45;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy .swatch {
+    width: 48px;
+    height: 48px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label {
+    width: 48px;
+    height: 48px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(3) {
+    font: normal normal 600 16px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(5) {
+    font: normal normal 600 16px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(7) {
+    font: normal normal 600 16px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(9) {
+    font: normal normal 600 16px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(11) {
+    font: normal normal 600 14px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .quantity__label {
+    font: normal normal medium 14px/24px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__submit {
+    width: 460px;
+    height: 48px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__submit
+    span {
+    width: 165px;
+    height: 17px;
+    font: normal normal 14px/20px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .share-button {
+    width: 120%;
+    height: 48px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .compare-button__button,
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .share-button__button {
+    font: normal normal normal 16px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .compare-button__button
+    .svg-wrapper,
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .share-button__button
+    .svg-wrapper {
+    width: 48px;
+    height: 48px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-compare,
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-share {
+    width: 20px;
+    height: 20px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-with-text__heading {
+    font: normal normal 600 24px/30px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-with-text__item
+    img {
+    width: 32px;
+    height: 32px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-with-text__item
+    .h4 {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.5;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-with-text__item
+    .h5 {
+    font: normal normal normal 14px/22px Lato;
+    padding-left: 42px;
+  }
+  /* MULTICOLUMN WITH DESCRIPTION AND ABOUT PRODUCT SECTION */
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .filter-section {
+    width: 526px;
+    height: 54px;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .filter-section
+    ul
+    li {
+    font: normal normal 600 24px/30px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .filter-section
+    ul
+    li
+    a {
+    font: normal normal 600 24px/30px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .filter-section
+    ul
+    li
+    a.active {
+    font: normal normal 600 24px/30px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .multicolumn-card__info
+    h3 {
+    font: normal normal 600 20px/28px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .multicolumn-card__info {
+    font: normal normal normal 16px/26px Lato;
+  }
+  /* MULTICOLUMN ABOUT SHIPPING SECTION */
+  #shopify-section-template--23397234180384__multicolumn_FRpQtA
+    .multicolumn-card__image-wrapper {
+    width: 40px;
+    height: 40px;
+  }
+  #shopify-section-template--23397234180384__multicolumn_FRpQtA
+    .multicolumn-card__info
+    h3 {
+    font: normal normal 600 20px/28px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_FRpQtA
+    .multicolumn-card__info {
+    font: normal normal normal 16px/26px Lato;
+  }
+  /* FEATURED COLLECTION WITH RELATED PRODUCTS TITLE SECTION */
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .collection__title {
+    font: normal normal 600 36px/40px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .product-card-wrapper {
+    width: 300px;
+    height: 400px;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .favorite__image {
+    right: 10px;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .favorite__image
+    .svg-wrapper {
+    width: 20px;
+    height: 20px;
+    margin: 6px 6px;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .card__heading {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.55;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt .price {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.45;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .price--on-sale
+    .price-item--regular {
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.45;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .price-item--limit {
+    font: normal normal medium 14px/20px Lato;
+    margin-left: 2px;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt .badge,
+  .badge--new {
+    margin-left: 2px;
+  }
+}
+/* ================================================================================= */
+/* MEDIA QUERIES FOR TABLET SCREEN SIZES */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  /* HEADER SECTION */
+  .header__inline-menu .list-menu li,
+  .menu-drawer__menu-item {
+    font: normal normal 600 16px/20px Lato;
+  }
+  .break-wrapper {
+    font-size: 26px;
+  }
+  .header__icon--search .icon,
+  .header__icon--account .icon,
+  .header__icon--heart .icon,
+  .header__icon--cart .icon {
+    width: 28px;
+    height: 28px;
+  }
+  /* FOOTER SECTION */
+  .footer {
+    width: 100%;
+    height: 100%;
+  }
+  .footer-block__image-wrapper {
+    width: 100%;
+    height: 36px;
+  }
+  .footer .rte {
+    width: 300px;
+    height: 121px;
+  }
+  .footer .rte strong {
+    width: 70px;
+    height: 19px;
+    font: normal normal 600 16px/26px Lato;
+  }
+  .footer .rte p {
+    font: normal normal normal 16px/26px Lato;
+  }
+  .footer-block {
+    margin: 0 -5px 0 45px;
+  }
+  .footer-block--menu {
+    margin: 0 -5px 0 20px;
+  }
+  .footer-block__brand-info {
+    margin: 0 -70px 0 -25px;
+  }
+  .footer-block__newsletter {
+    margin: 0 auto 0 auto;
+  }
+  .footer-block__heading {
+    font: normal normal 600 14px/20px Lato;
+  }
+  .footer-block__description {
+    font: normal normal normal 14px/22px Lato;
+  }
+  .footer-block--menu h2,
+  .footer-block__newsletter h2 {
+    font: normal normal 600 14px/20px Lato;
+  }
+  .footer-block--menu ul li a,
+  .footer-block__newsletter p {
+    font: normal normal normal 14px/22px Lato;
+  }
+  .footer-block__newsletter input {
+    width: 100%;
+    height: 52px;
+  }
+  .footer-block__newsletter label {
+    width: 100%;
+    height: 17px;
+    font: normal normal normal 14px/22px Lato;
+  }
+  .footer-block__newsletter button {
+    width: 44px;
+    height: 44px;
+  }
+  @media only screen and (width: 1024px) {
+    .footer .footer__content-top .footer__list-social {
+      left: 19em;
+      bottom: -1em;
+    }
+  }
+  @media only screen and (width: 768px) {
+    .footer .footer__content-top .footer__list-social {
+      left: 16.5em;
+      bottom: 2.2em;
+    }
+  }
+  .footer__content-top {
+    margin-bottom: -5px;
+  }
+  .footer__content-bottom {
+    width: 100%;
+    height: 50px;
+  }
+  .footer__content-bottom-wrapper {
+    bottom: 25%;
+    padding: 0 60px 0 60px;
+  }
+  .copyright__content {
+    margin: auto !important;
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.65;
+  }
+  .footer__payment ul {
+    margin: auto !important;
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.55;
+  }
+  /* BANNER WITH SLIDESHOW SECTION */
+  #shopify-section-template--23397234082080__slideshow_VizJ6y .banner {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__slideshow_VizJ6y .banner__media {
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__slideshow_VizJ6y
+    .banner__box
+    > *:nth-child(1) {
+    width: 80%;
+    line-height: 40px;
+    font-size-adjust: 0.32;
+  }
+  #shopify-section-template--23397234082080__slideshow_VizJ6y
+    .banner__box
+    > *:nth-child(2) {
+    line-height: 40px;
+    font-size-adjust: 0.32;
+  }
+  #shopify-section-template--23397234082080__slideshow_VizJ6y
+    .banner__box
+    .banner__buttons
+    a {
+    line-height: 40px;
+    font-size-adjust: 0.32;
+  }
+  /* FEATURED COLLECTION WITH WHAT'S NEW TITLE SECTION */
+  #shopify-section-template--23397234082080__featured_collection
+    .collection__title {
+    font: normal normal 600 36px/40px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .grid--1-col-tablet-down
+    .grid__item {
+    width: 45%;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .product-card-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .favorite__image {
+    right: 12px;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .favorite__image
+    .svg-wrapper {
+    width: 22px;
+    height: 22px;
+    margin: 5px 5px;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .card__heading {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.65;
+  }
+  #shopify-section-template--23397234082080__featured_collection .price {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.55;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .price--on-sale
+    .price-item--regular {
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.45;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .price-item--limit {
+    font: normal normal medium 14px/20px Lato;
+    margin-left: 5px;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .filter-section {
+    width: 470px;
+    height: 46px;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .filter-section
+    ul
+    li {
+    font: normal normal 600 14px/22px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .filter-section
+    ul
+    li
+    a {
+    font: normal normal 600 14px/22px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .filter-section
+    ul
+    li
+    a.active {
+    font: normal normal 600 14px/22px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection .badge,
+  .badge--new {
+    margin-left: 5px;
+  }
+  /* FEATURED COLLECTION WITH EXPLORE COLLECTION TITLE SECTION */
+  #shopify-section-template--23397234082080__featured_collection_6363QC
+    .collection__title {
+    font: normal normal 600 36px/40px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_6363QC
+    .product-grid {
+    margin: auto;
+    /* margin: 50px -170px 0; */
+  }
+  #shopify-section-template--23397234082080__featured_collection_6363QC
+    .grid--1-col-tablet-down
+    .grid__item {
+    width: 45%;
+  }
+  #shopify-section-template--23397234082080__featured_collection_6363QC
+    .product-card-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  /* FEATURED COLLECTION WITHOUT HEADING TITLE SECTION */
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .product-card-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .grid--1-col-tablet-down
+    .grid__item {
+    width: 45%;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .favorite__image {
+    right: 12px;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .favorite__image
+    .svg-wrapper {
+    width: 22px;
+    height: 22px;
+    margin: 5px 5px;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .card__heading {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.65;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX .price {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.55;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .price--on-sale
+    .price-item--regular {
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.45;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .price-item--limit {
+    font: normal normal medium 14px/20px Lato;
+    margin-left: 5px;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .filter-section {
+    width: 550px;
+    height: 54px;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .filter-section
+    ul
+    li {
+    font: normal normal 600 24px/30px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .filter-section
+    ul
+    li
+    a {
+    font: normal normal 600 24px/30px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .filter-section
+    ul
+    li
+    a.active {
+    font: normal normal 600 24px/30px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX .badge,
+  .badge--new {
+    margin-left: 5px;
+  }
+  /* CATEGORIES WITH TEXT AND IMAGE SECTION */
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__first
+    .categories-container__title {
+    width: 100%;
+    height: 52px;
+    top: 50%;
+    left: 8%;
+    font: normal normal 600 44px/50px Lato;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__first
+    .categories-container__button {
+    top: 45%;
+    left: 45%;
+    font: normal normal 600 16px/26px Lato;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__first
+    .img-wrapper {
+    width: 100%;
+    height: 450px;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__second
+    .categories-container__title {
+    width: 100%;
+    height: 52px;
+    top: 50%;
+    right: 5%;
+    font: normal normal 600 44px/50px Lato;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__second
+    .categories-container__button {
+    top: 45%;
+    left: 35%;
+    font: normal normal 600 16px/26px Lato;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__second
+    .img-wrapper {
+    width: 100%;
+    height: 450px;
+  }
+  /* MULTICOLUMN ABOUT SERVICE SECTION */
+  #shopify-section-template--23397234082080__multicolumn_tfecHK
+    .multicolumn-card {
+    margin-bottom: 100px;
+  }
+  #shopify-section-template--23397234082080__multicolumn_tfecHK
+    .multicolumn-list {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__multicolumn_tfecHK
+    .grid--1-col-tablet-down
+    .grid__item {
+    width: 45%;
+  }
+  #shopify-section-template--23397234082080__multicolumn_tfecHK
+    .multicolumn-card__image-wrapper {
+    margin: auto;
+  }
+  #shopify-section-template--23397234082080__multicolumn_tfecHK
+    .multicolumn-card__info
+    h3 {
+    font: normal normal 600 18px/28px Lato;
+  }
+  #shopify-section-template--23397234082080__multicolumn_tfecHK
+    .multicolumn-card__info {
+    width: 100%;
+    height: 39px;
+    font: normal normal normal 14px/22px Lato;
+  }
+  /* MULTICOLUMN WITH FEEDBACKS SECTION */
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .multicolumn__title {
+    font: normal normal 600 36px/40px Lato;
+  }
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .multicolumn-list {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .grid--1-col-tablet-down
+    .grid__item {
+    width: 50%;
+  }
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .multicolumn-card {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .multicolumn-card__info
+    h3 {
+    font: normal normal 600 20px/28px Lato;
+  }
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .multicolumn-card__info {
+    font: normal normal normal 16px/26px Lato;
+  }
+  /* FEATURED COLLECTION WITH ANVOGUE ON SOCIAL MEDIA TITLE SECTION */
+  #shopify-section-template--23397234082080__featured_collection_kqLVqF
+    .collection__title {
+    font: normal normal 600 36px/40px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_kqLVqF
+    .collection__description {
+    font: normal normal normal 16px/26px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_kqLVqF
+    .grid--1-col-tablet-down
+    .grid__item {
+    width: 30%;
+  }
+  #shopify-section-template--23397234082080__featured_collection_kqLVqF
+    .product-card-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  /* MULTICOLUMN WITH BRANDS SECTION */
+  #shopify-section-template--23397234082080__multicolumn_jbgkDy
+    .multicolumn-card {
+    margin: 0 20px 40px 20px;
+  }
+  #shopify-section-template--23397234082080__multicolumn_jbgkDy
+    .multicolumn-list {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__multicolumn_jbgkDy
+    .grid--1-col-tablet-down
+    .grid__item {
+    width: 45%;
+  }
+  #shopify-section-template--23397234082080__multicolumn_jbgkDy
+    .multicolumn-card__image-wrapper {
+    width: 80%;
+    margin: auto;
+  }
+  /* BREADCRUMBS SECTION */
+  #shopify-section-template--23397234180384__custom_liquid_rB769h .breadcrumb {
+    padding: 15px 50px 15px 50px;
+  }
+  #shopify-section-template--23397234180384__custom_liquid_rB769h
+    .breadcrumb__home,
+  .breadcrumb__collection {
+    font: normal normal normal 14px/22px Lato;
+  }
+  #shopify-section-template--23397234180384__custom_liquid_rB769h
+    .breadcrumb__product {
+    font: normal normal normal 14px/22px Lato;
+  }
+  /* FEATURED PRODUCT SECTION */
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product__media-wrapper {
+    margin: 0 -120px 0 15px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product__media-item {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product__info-wrapper {
+    padding: 0;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .grid--1-col
+    .grid__item {
+    max-width: 50%;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .heart-image__image {
+    right: -120px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .heart-image__image
+    .svg-wrapper {
+    width: 20px;
+    height: 20px;
+    margin: 13px 13px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .caption-with-letter-spacing {
+    width: 120%;
+    font: normal normal 600 12px/20px Poppins !important;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product__title {
+    width: 120%;
+    font: normal normal 600 36px/40px Lato;
+    font-size-adjust: 0.4;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy .rating {
+    width: 174px;
+    height: 17px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .total-reviews {
+    font: normal normal normal 14px/22px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product__text {
+    width: 120%;
+    font: normal normal normal 16px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy .price {
+    font: normal normal 600 22px/30px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .form__label {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.55;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .form__label
+    u {
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.5;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy .swatch {
+    width: 48px;
+    height: 48px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label {
+    width: 48px;
+    height: 48px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(3) {
+    font: normal normal 600 16px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(5) {
+    font: normal normal 600 16px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(7) {
+    font: normal normal 600 16px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(9) {
+    font: normal normal 600 16px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(11) {
+    font: normal normal 600 14px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .quantity__label {
+    font: normal normal medium 16px/24px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__submit {
+    width: 130%;
+    height: 48px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__submit
+    span {
+    width: 100%;
+    height: 20px;
+    font: normal normal 14px/20px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .share-button {
+    width: 120%;
+    height: 48px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .compare-button__button,
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .share-button__button {
+    font: normal normal normal 16px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .compare-button__button
+    .svg-wrapper,
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .share-button__button
+    .svg-wrapper {
+    width: 48px;
+    height: 48px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-compare,
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-share {
+    width: 20px;
+    height: 20px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-with-text__heading {
+    font: normal normal 600 24px/30px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-with-text__item
+    img {
+    width: 36px;
+    height: 36px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-with-text__item
+    .h4 {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.55;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-with-text__item
+    .h5 {
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.55;
+    padding-left: 48px;
+  }
+  /* MULTICOLUMN WITH DESCRIPTION AND ABOUT PRODUCT SECTION */
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .multicolumn-list {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .grid--1-col-tablet-down
+    .grid__item {
+    width: 50%;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .multicolumn-card {
+    margin-bottom: 75px;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .filter-section {
+    width: 566px;
+    height: 54px;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .filter-section
+    ul
+    li {
+    font: normal normal 600 24px/30px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .filter-section
+    ul
+    li
+    a {
+    font: normal normal 600 24px/30px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .filter-section
+    ul
+    li
+    a.active {
+    font: normal normal 600 24px/30px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .multicolumn-card__info
+    h3 {
+    font: normal normal 600 20px/28px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .multicolumn-card__info {
+    width: 100%;
+    height: 149px;
+    font: normal normal normal 16px/26px Lato;
+  }
+  /* MULTICOLUMN ABOUT SHIPPING SECTION */
+  @media only screen and (width: 1024px) {
+    #shopify-section-template--23397234180384__multicolumn_FRpQtA
+      .multicolumn-card {
+      margin-bottom: 20px;
+    }
+    #shopify-section-template--23397234180384__multicolumn_FRpQtA
+      .multicolumn-list {
+      width: 100%;
+      height: 100%;
+    }
+  }
+  @media only screen and (width: 768px) {
+    #shopify-section-template--23397234180384__multicolumn_FRpQtA
+      .multicolumn-card {
+      margin-bottom: 115px;
+    }
+    #shopify-section-template--23397234180384__multicolumn_FRpQtA
+      .multicolumn-list {
+      width: 100%;
+      height: 100%;
+      margin-top: -140px;
+    }
+  }
+  #shopify-section-template--23397234180384__multicolumn_FRpQtA
+    .grid--1-col-tablet-down
+    .grid__item {
+    width: 45%;
+  }
+  #shopify-section-template--23397234180384__multicolumn_FRpQtA
+    .multicolumn-card__info
+    h3 {
+    font: normal normal 600 20px/28px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_FRpQtA
+    .multicolumn-card__info {
+    width: 100%;
+    height: 71px;
+    font: normal normal normal 16px/26px Lato;
+  }
+  /* FEATURED COLLECTION WITH RELATED PRODUCTS TITLE SECTION */
+  @media only screen and (width: 1024px) {
+    #shopify-section-template--23397234180384__featured_collection_8YQPVt
+      .collection__title {
+      margin-top: 0;
+      font: normal normal 600 36px/40px Lato;
+    }
+  }
+  @media only screen and (width: 768px) {
+    #shopify-section-template--23397234180384__featured_collection_8YQPVt
+      .collection__title {
+      margin-top: -115px;
+      font: normal normal 600 36px/40px Lato;
+    }
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .grid--1-col-tablet-down
+    .grid__item {
+    width: 45%;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .product-card-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .favorite__image {
+    right: 12px;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .favorite__image
+    .svg-wrapper {
+    width: 22px;
+    height: 22px;
+    margin: 5px 5px;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .card__heading {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.65;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt .price {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.55;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .price--on-sale
+    .price-item--regular {
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.45;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .price-item--limit {
+    font: normal normal medium 14px/20px Lato;
+    margin-left: 5px;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt .badge,
+  .badge--new {
+    margin-left: 5px;
+  }
+}
+/* ================================================================================= */
+/* MEDIA QUERIES FOR MOBILE SCREEN SIZE */
+@media only screen and (max-width: 767px) {
+  /* HEADER SECTION */
+  .header__heading-logo-wrapper {
+    width: 150%;
+    height: 100%;
+  }
+  .header__heading-link {
+    padding-top: 5px;
+    margin: 0 50px 0 0;
+  }
+  .menu-drawer__menu-item {
+    font: normal normal 600 14px/20px Lato;
+    font-size-adjust: 0.4;
+  }
+  .break-wrapper {
+    font-size: 26px;
+  }
+  .header__icon--search .icon,
+  .header__icon--account .icon,
+  .header__icon--heart .icon,
+  .header__icon--cart .icon {
+    width: 22px;
+    height: 22px;
+  }
+  /* FOOTER SECTION */
+  .footer {
+    width: 100%;
+    height: 100%;
+  }
+  .footer-block__image-wrapper {
+    width: 100%;
+    height: 36px;
+  }
+  .footer .rte {
+    width: 300px;
+    height: 121px;
+  }
+  .footer .rte strong {
+    width: 70px;
+    height: 19px;
+    margin-right: 5px;
+    font: normal normal 600 14px/26px Lato;
+  }
+  .footer .rte p {
+    font: normal normal normal 14px/26px Lato;
+  }
+  .footer-block {
+    margin: 0 0 0 25px;
+  }
+  .footer-block--menu {
+    margin: 25px 0 0 0;
+  }
+  .footer-block__brand-info {
+    margin: 0;
+  }
+  .footer-block__newsletter {
+    margin: 25px 0 0 0;
+  }
+  .footer__blocks-wrapper.grid.grid--1-col.grid--2-col.grid--4-col-tablet
+    .footer-block__newsletter {
+    width: 100%;
+  }
+  .footer-block__heading {
+    font: normal normal 600 14px/20px Lato;
+  }
+  .footer-block__description {
+    font: normal normal normal 14px/22px Lato;
+  }
+  .footer-block--menu h2,
+  .footer-block__newsletter h2 {
+    font: normal normal 600 14px/20px Lato;
+  }
+  .footer-block--menu ul li a,
+  .footer-block__newsletter p {
+    font: normal normal normal 14px/22px Lato;
+  }
+  .footer-block__newsletter input {
+    width: 100%;
+    height: 52px;
+  }
+  .footer-block__newsletter label {
+    width: 100%;
+    height: 17px;
+    font: normal normal normal 14px/22px Lato;
+  }
+  .footer-block__newsletter button {
+    width: 44px;
+    height: 44px;
+  }
+  .footer .footer__content-top .footer__list-social {
+    bottom: -1em;
+    left: -0.5em;
+  }
+  .footer__content-top {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-bottom: 25px;
+  }
+  .footer__content-top.page-width {
+    justify-content: flex-start;
+  }
+  .footer__content-top .footer__blocks-wrapper {
+    flex-direction: column;
+  }
+  .footer__content-top .footer__blocks-wrapper .footer-block {
+    width: 100% !important;
+    text-align: left !important;
+  }
+  .footer__content-top
+    .footer__blocks-wrapper
+    .footer-block__details-content
+    .list-menu__item--link {
+    text-align: left !important;
+    justify-content: left !important;
+  }
+  .footer__content-bottom {
+    width: 100%;
+    height: 85px;
+  }
+  .footer__content-bottom-wrapper {
+    bottom: auto;
+    padding: 25px 0 10px 0;
+  }
+  .footer__content-bottom-wrapper--center {
+    justify-content: center !important;
+  }
+  .footer__localization:empty + .footer__column--info {
+    align-items: center !important;
+  }
+  .copyright__content {
+    margin: 0 !important;
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.6;
+  }
+  .footer__payment ul {
+    margin: 0 !important;
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.5;
+  }
+  /* BANNER WITH SLIDESHOW SECTION */
+  #shopify-section-template--23397234082080__slideshow_VizJ6y .banner {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__slideshow_VizJ6y .banner__media {
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__slideshow_VizJ6y
+    .banner__box
+    > *:nth-child(1) {
+    width: 55%;
+    line-height: 25px;
+    font-size-adjust: 0.2;
+  }
+  #shopify-section-template--23397234082080__slideshow_VizJ6y
+    .banner__box
+    > *:nth-child(2) {
+    line-height: 25px;
+    font-size-adjust: 0.2;
+  }
+  #shopify-section-template--23397234082080__slideshow_VizJ6y
+    .banner__box
+    .banner__buttons
+    a {
+    min-width: calc(10rem + var(--buttons-border-width) * 2);
+    min-height: calc(3.5rem + var(--buttons-border-width) * 2);
+    line-height: 25px;
+    font-size-adjust: 0.2;
+  }
+  #shopify-section-template--23397234082080__slideshow_VizJ6y .slider-counter {
+    bottom: 14px;
+  }
+  #shopify-section-template--23397234082080__slideshow_VizJ6y
+    .slider-counter__link--dots
+    .dot {
+    border: 2px solid rgba(255, 255, 255, 0.4);
+  }
+  #shopify-section-template--23397234082080__slideshow_VizJ6y
+    .slider-counter__link--active {
+    border: 0.5px solid #fff;
+    box-shadow: 0 0 2.5px 0 #000;
+  }
+  /* FEATURED COLLECTION WITH WHAT'S NEW TITLE SECTION */
+  #shopify-section-template--23397234082080__featured_collection
+    .collection__title {
+    font: normal normal 600 34px/40px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .product-card-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .favorite__image {
+    right: 12px;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .favorite__image
+    .svg-wrapper {
+    width: 22px;
+    height: 22px;
+    margin: 5px 5px;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .card__heading {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.6;
+  }
+  #shopify-section-template--23397234082080__featured_collection .price {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.5;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .price--on-sale
+    .price-item--regular {
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.45;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .price-item--limit {
+    font: normal normal medium 14px/20px Lato;
+    margin-left: 5px;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .filter-section {
+    width: 330px;
+    height: 46px;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .filter-section
+    ul {
+    padding: 8px 15px 0 30px;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .filter-section
+    ul
+    li {
+    margin: 0 4px 0 0;
+    font: normal normal 600 12px/22px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .filter-section
+    ul
+    li
+    a {
+    font: normal normal 600 12px/22px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection
+    .filter-section
+    ul
+    li
+    a.active {
+    font: normal normal 600 12px/22px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection .badge,
+  .badge--new {
+    margin-left: 5px;
+  }
+  /* FEATURED COLLECTION WITH EXPLORE COLLECTION TITLE SECTION */
+  #shopify-section-template--23397234082080__featured_collection_6363QC
+    .collection__title {
+    font: normal normal 600 34px/40px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_6363QC
+    .product-grid {
+    margin: auto;
+  }
+  #shopify-section-template--23397234082080__featured_collection_6363QC
+    .product-card-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  /* FEATURED COLLECTION WITHOUT HEADING TITLE SECTION */
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .product-card-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .favorite__image {
+    right: 12px;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .favorite__image
+    .svg-wrapper {
+    width: 22px;
+    height: 22px;
+    margin: 5px 5px;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .card__heading {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.6;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX .price {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.5;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .price--on-sale
+    .price-item--regular {
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.45;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .price-item--limit {
+    font: normal normal medium 14px/20px Lato;
+    margin-left: 5px;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .filter-section {
+    width: 350px;
+    height: 54px;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .filter-section
+    ul
+    li {
+    margin: 0 22px 0 -12px;
+    font: normal normal 600 14px/30px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .filter-section
+    ul
+    li
+    a {
+    font: normal normal 600 14px/30px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX
+    .filter-section
+    ul
+    li
+    a.active {
+    font: normal normal 600 16px/30px Lato;
+    padding: 10px 25px 10px;
+  }
+  #shopify-section-template--23397234082080__featured_collection_k3rHfX .badge,
+  .badge--new {
+    margin-left: 5px;
+  }
+  /* CATEGORIES WITH TEXT AND IMAGE SECTION */
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container {
+    flex-wrap: wrap;
+    margin-top: -200px;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__first {
+    margin: 0 auto -70px auto;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__first
+    .categories-container__title {
+    width: 100%;
+    height: 52px;
+    top: 50%;
+    left: 10%;
+    font: normal normal 600 40px/50px Lato;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__first
+    .categories-container__button {
+    top: 45%;
+    left: 50%;
+    font: normal normal 600 14px/26px Lato;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__first
+    .img-wrapper {
+    width: 100%;
+    height: 400px;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__second {
+    margin: -70px auto 0 auto;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__second
+    .categories-container__title {
+    width: 100%;
+    height: 52px;
+    top: 50%;
+    right: 5%;
+    font: normal normal 600 40px/50px Lato;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__second
+    .categories-container__button {
+    top: 45%;
+    left: 35%;
+    font: normal normal 600 14px/26px Lato;
+  }
+  #shopify-section-template--23397234082080__custom_liquid_AcM8xL
+    .categories-container__second
+    .img-wrapper {
+    width: 100%;
+    height: 400px;
+  }
+  /* MULTICOLUMN ABOUT SERVICE SECTION */
+  #shopify-section-template--23397234082080__multicolumn_tfecHK
+    .multicolumn-card {
+    margin-bottom: 100px;
+  }
+  #shopify-section-template--23397234082080__multicolumn_tfecHK
+    .multicolumn-list {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__multicolumn_tfecHK
+    .multicolumn-card__image-wrapper {
+    margin: auto;
+  }
+  #shopify-section-template--23397234082080__multicolumn_tfecHK
+    .multicolumn-card__info
+    h3 {
+    font: normal normal 600 16px/28px Lato;
+  }
+  #shopify-section-template--23397234082080__multicolumn_tfecHK
+    .multicolumn-card__info {
+    width: 100%;
+    height: 39px;
+    font: normal normal normal 14px/22px Lato;
+  }
+  /* MULTICOLUMN WITH FEEDBACKS SECTION */
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .multicolumn__title {
+    font: normal normal 600 34px/40px Lato;
+    font-size-adjust: 0.45;
+  }
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .multicolumn-list {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .multicolumn-card {
+    width: 100%;
+    height: 90%;
+  }
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .multicolumn-card__info
+    h3 {
+    font: normal normal 600 18px/28px Lato;
+  }
+  #shopify-section-template--23397234082080__multicolumn_EPeYRA
+    .multicolumn-card__info {
+    font: normal normal normal 14px/26px Lato;
+  }
+  /* FEATURED COLLECTION WITH ANVOGUE ON SOCIAL MEDIA TITLE SECTION */
+  #shopify-section-template--23397234082080__featured_collection_kqLVqF
+    .collection__title {
+    font: normal normal 600 34px/40px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_kqLVqF
+    .collection__description {
+    font: normal normal normal 14px/26px Lato;
+  }
+  #shopify-section-template--23397234082080__featured_collection_kqLVqF
+    .product-card-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  /* MULTICOLUMN WITH BRANDS SECTION */
+  #shopify-section-template--23397234082080__multicolumn_jbgkDy
+    .multicolumn-card {
+    margin: 10px 0 15px 0;
+  }
+  #shopify-section-template--23397234082080__multicolumn_jbgkDy
+    .multicolumn-list {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234082080__multicolumn_jbgkDy
+    .multicolumn-card__image-wrapper {
+    width: 60%;
+    margin: auto;
+  }
+  /* BREADCRUMBS SECTION */
+  #shopify-section-template--23397234180384__custom_liquid_rB769h .breadcrumb {
+    padding: 15px 30px 15px 30px;
+  }
+  #shopify-section-template--23397234180384__custom_liquid_rB769h
+    .breadcrumb__home,
+  .breadcrumb__collection {
+    font: normal normal normal 12px/22px Lato;
+  }
+  #shopify-section-template--23397234180384__custom_liquid_rB769h
+    .breadcrumb__product {
+    font: normal normal normal 12px/22px Lato;
+  }
+  /* FEATURED PRODUCT SECTION */
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .slider-buttons {
+    margin: -15px 0 5px 0;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy .caption {
+    font-size: 1.5rem;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .heart-image__image {
+    width: 42px;
+    height: 42px;
+    top: 10px;
+    right: -5px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .heart-image__image
+    .svg-wrapper {
+    width: 18px;
+    height: 18px;
+    margin: 11px 11px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .caption-with-letter-spacing {
+    width: 100%;
+    font: normal normal 600 12px/20px Poppins !important;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product__title {
+    width: 100%;
+    font: normal normal 600 36px/40px Lato;
+    font-size-adjust: 0.3;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy .rating {
+    width: 188px;
+    height: 17px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .total-reviews {
+    font: normal normal normal 14px/22px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product__text {
+    width: 100%;
+    font: normal normal normal 16px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy .price {
+    font: normal normal 600 22px/30px Lato;
+    font-size-adjust: 0.5;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .form__label {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.55;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .form__label
+    u {
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.5;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy .swatch {
+    width: 44px;
+    height: 44px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label {
+    width: 44px;
+    height: 44px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(3) {
+    font: normal normal 600 16px/26px Lato;
+    padding: 8px 0 0 16px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(5) {
+    font: normal normal 600 16px/26px Lato;
+    padding: 8px 0 0 13px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(7) {
+    font: normal normal 600 16px/26px Lato;
+    padding: 8px 0 0 17px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(9) {
+    font: normal normal 600 16px/26px Lato;
+    padding: 8px 0 0 12px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__input--pill
+    label:nth-child(11) {
+    font: normal normal 600 14px/26px Lato;
+    padding: 8px 0 0 10px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .quantity__label {
+    font: normal normal medium 16px/24px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__submit {
+    width: 100%;
+    height: 50px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .product-form__submit
+    span {
+    width: 100%;
+    height: 20px;
+    font: normal normal 14px/20px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .share-button {
+    width: 100%;
+    height: 50px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .compare-button__button,
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .share-button__button {
+    font: normal normal normal 16px/26px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .compare-button__button
+    .svg-wrapper,
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .share-button__button
+    .svg-wrapper {
+    width: 42px;
+    height: 42px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .compare-button__button {
+    margin-right: 25px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-compare,
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-share {
+    width: 20px;
+    height: 20px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-with-text__heading {
+    top: 5px;
+    font: normal normal 600 24px/30px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-with-text__item
+    img {
+    width: 32px;
+    height: 32px;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-with-text__item
+    .h4 {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.55;
+  }
+  #shopify-section-template--23397234180384__featured_product_fUVtGy
+    .icon-with-text__item
+    .h5 {
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.5;
+    padding-left: 42px;
+  }
+  /* MULTICOLUMN WITH DESCRIPTION AND ABOUT PRODUCT SECTION */
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .multicolumn-list {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .multicolumn-card {
+    margin-bottom: 175px;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .filter-section {
+    width: 350px;
+    height: 54px;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .filter-section
+    ul
+    li {
+    margin: 0 10px 0 -20px;
+    font: normal normal 600 18px/30px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .filter-section
+    ul
+    li
+    a {
+    font: normal normal 600 18px/30px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .filter-section
+    ul
+    li
+    a.active {
+    font: normal normal 600 18px/30px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .multicolumn-card__info
+    h3 {
+    font: normal normal 600 18px/28px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_eF6gYY
+    .multicolumn-card__info {
+    width: 100%;
+    height: 149px;
+    font: normal normal normal 14px/26px Lato;
+  }
+  /* MULTICOLUMN ABOUT SHIPPING SECTION */
+  #shopify-section-template--23397234180384__multicolumn_FRpQtA
+    .multicolumn-card {
+    margin-bottom: 70px;
+  }
+  #shopify-section-template--23397234180384__multicolumn_FRpQtA
+    .multicolumn-list {
+    width: 100%;
+    height: 100%;
+    margin-top: -110px;
+  }
+  #shopify-section-template--23397234180384__multicolumn_FRpQtA
+    .multicolumn-card__info
+    h3 {
+    font: normal normal 600 18px/28px Lato;
+  }
+  #shopify-section-template--23397234180384__multicolumn_FRpQtA
+    .multicolumn-card__info {
+    width: 100%;
+    height: 71px;
+    font: normal normal normal 14px/26px Lato;
+  }
+  /* FEATURED COLLECTION WITH RELATED PRODUCTS TITLE SECTION */
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .collection__title {
+    margin-top: -70px;
+    font: normal normal 600 34px/40px Lato;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .product-grid {
+    margin: 50px auto 0 auto;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .product-card-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .favorite__image {
+    right: 12px;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .favorite__image
+    .svg-wrapper {
+    width: 22px;
+    height: 22px;
+    margin: 5px 5px;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .card__heading {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.6;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt .price {
+    font: normal normal medium 16px/24px Lato;
+    font-size-adjust: 0.5;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .price--on-sale
+    .price-item--regular {
+    font: normal normal normal 14px/22px Lato;
+    font-size-adjust: 0.45;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt
+    .price-item--limit {
+    font: normal normal medium 14px/20px Lato;
+    margin-left: 5px;
+  }
+  #shopify-section-template--23397234180384__featured_collection_8YQPVt .badge,
+  .badge--new {
+    margin-left: 5px;
+  }
+}
