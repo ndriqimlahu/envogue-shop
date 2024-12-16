@@ -28,3 +28,7 @@ This website was developed using the following tools, technologies, and resource
 ✅ **Customer Support:** Offers customer support through a contact form and contact details, making it easy for users to reach out for assistance.
 
 ✅ **Responsive Design:** Fully responsive design that adapts seamlessly across devices, ensuring a smooth browsing experience on smartphones, tablets, and desktops.
+
+## Support
+
+If you find this project useful, please consider giving it a star!
