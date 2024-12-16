@@ -12,3 +12,19 @@ This website was developed using the following tools, technologies, and resource
 - **CSS**
 - **JavaScript**
 - **Shopify Dawn Theme** — [Reference link](https://themes.shopify.com/themes/dawn/styles/default)
+
+## Features
+
+✅ **Product Information:** Displays detailed descriptions, including pricing, colors, sizes, and product images, helping customers make informed choices.
+
+✅ **Search Functionality:** Provides robust search with suggestion options, helping users quickly find products that match their preferences.
+
+✅ **Payment Process:** Ensures secure transactions with multiple payment options and an optimized checkout experience for a smooth, secure process.
+
+✅ **User Authentication:** Provides secure login and registration options, ensuring personalized experiences and data protection.
+
+✅ **Shipping Information:** Details about the shipping process, including estimated delivery times and available shipping options, informing users about order fulfillment.
+
+✅ **Customer Support:** Offers customer support through a contact form and contact details, making it easy for users to reach out for assistance.
+
+✅ **Responsive Design:** Fully responsive design that adapts seamlessly across devices, ensuring a smooth browsing experience on smartphones, tablets, and desktops.
